@@ -34,4 +34,5 @@ namespace ExamenP1_MonterosM.Models
         [ForeignKey("ClienteId")]
         public virtual Cliente? Cliente { get; set; }
     } 
+
 }
