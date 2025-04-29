@@ -43,5 +43,6 @@ namespace ExamenP1_MonterosM.Models
                     new[] { nameof(FechaSalida) });
             }
         }
+
     }
 }
